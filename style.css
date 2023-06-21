@@ -1,0 +1,151 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    background-color: #FF1B74;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+
+
+
+}
+
+.half-width img {
+    width: 80%;
+
+
+}
+
+#text {
+    margin: 0px;
+}
+
+.top-section {
+    background-image: url(/images/header-bg.png);
+    height: auto;
+    background-position: center;
+    margin-top: 0;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    gap: 2px;
+    height: 90vh;
+    min-height: 500px;
+    background-size: cover;
+
+}
+
+
+.color-text {
+    color: #FF1B74;
+    font-size: 65px;
+    margin: 0;
+}
+
+.container {
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+
+
+}
+
+.biography-half {
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    border-left-width: 40px;
+    padding-left: 5px;
+    padding-top: 5%;
+
+
+
+
+
+
+
+
+
+}
+
+.biography {
+    justify-content: center;
+    padding-top: 5%;
+    gap: 2px;
+    height: 110vh;
+    min-height: 500px;
+    background-size: cover;
+    background-image: url(images/biography-bg.png);
+
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+.bio-pera {
+    color: dimgray;
+}
+
+.work-1 {
+    width: 30%;
+    float: left;
+    height: 250px;
+    margin: 5px;
+}
+
+.work-2 {
+    width: 30%;
+    float: center;
+    height: 250px;
+    margin: 5px;
+}
+
+.work-3 {
+    width: 30%;
+    float: right;
+
+    height: 250px;
+    margin: 5px;
+
+}
+
+.my-latest-work {
+    text-align: center;
+    background-image: url(images/latest-work-bg.png);
+    padding-top: 5%;
+    height: 80vh;
+
+    background-image: url(images/latest-work-bg.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+.work-im {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.work-text {
+
+    margin-bottom: 5%;
+}
