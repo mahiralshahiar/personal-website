@@ -176,6 +176,7 @@ body {
 
 .founder {
     margin: 0%;
+    color: dimgray
 }
 
 .bot-h {
@@ -185,19 +186,17 @@ body {
 .last {
     color: white;
     background-color: #FF1B74;
-    background-position: center;
-    padding: 15px 20px;
+
     margin-left: 30%;
     margin-right: 30%;
     text-align: center;
     border-radius: 10px;
     margin-top: 4%;
+    padding-top: 20px;
+    padding-bottom: 40px;
 
 }
 
-.last p {
-    text-align: center;
-}
 
 footer P {
     text-align: center;
@@ -205,6 +204,6 @@ footer P {
     color: dimgray;
 }
 
-.mail {
-    text-align: center;
+.lastText {
+    margin-bottom: 15px;
 }
